@@ -17,7 +17,14 @@ San Diego purchasing and rental transaction records can be found in the Multiple
 
 
 
-<img src="https://github.com/PurpleGrace/Metis-Business-Module-Project/blob/main/MVP1.png" alt="DOML and rent_to_value based on zipcod">
+<img src="https://github.com/PurpleGrace/Metis-Business-Module-Project/blob/main/MVP1.png" alt="DOML and rent_to_value based on zip code">
+
+The plot shows that if research is done on zip code levels, darker yellow zip code area are those with short average days on market, which means the properties in those area are more populated and desired by renters, for example zip code 92020, 92067,92011 and etc. Vice versa.
+
+
+<img src="https://github.com/PurpleGrace/Metis-Business-Module-Project/blob/main/mvp2.png" alt="DOML and rent_to_value based on zip code">
+
+From above plot, we can see that townhome with size between 1000-1499 in zip code 92128 have the shortest days on the market of 6 days. Meanwhile, attached condo with size between square size between 500 and 999 in zip code is a good candidate for investors who seek for cash flows.
 
 
 ### Impact Hypothesis
