@@ -21,7 +21,7 @@ We hypothesize that, through EDA and future regression/maching learning model, t
 
 
 <details><summary>Solution Path</summary>
-The **technical** solution suggested to use in this project includes:
+The **Technical** solution suggested to use in this project includes:
 
 - Linear regression model to predict house value, so that investors can find properties with better rent_to_value ratio.
 - Time series model to forecast future house value, so that investors to find properties with good value growth potentials.
