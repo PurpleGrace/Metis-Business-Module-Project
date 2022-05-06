@@ -75,4 +75,4 @@ To find out what kind of properties have higher growth potential, we compared th
 
 ### Communications
 A PPT presentation will be presented.
-A dashboard can be view on Tableau Public website at [here](https://public.tableau.com/app/profile/purplegrace/viz/SDRE_DEA/Growth_by_zip)
+A dashboard can be view on Tableau Public website at [here](https://public.tableau.com/app/profile/purplegrace/viz/SDRE_DEA/Growth_by_zip).
